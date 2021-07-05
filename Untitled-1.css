@@ -49,10 +49,11 @@ ul{
 }
 
 .logoo  {
-	width: 75px;
-    height: 75px;
-	position: absolute;
-	left:3%;
+	width: 65px;
+    height: 65px;
+	position: fixed;
+	left:0%;
+	top:0%;
 }
 
 .section-title {
@@ -90,8 +91,10 @@ ul{
     font-weight: bold;
 	text-transform: uppercase;
 	color: white;
+	
 }
 .brand1 {
+
 	font-size: 3rem;
     font-weight: bold;
 	text-transform: uppercase;
@@ -296,11 +299,11 @@ ul{
 	animation-delay: 2.5s;
 }
 .myheader h1{
-	
-	display: inline;
+	display: inline;	
 	
 }
 	.myheader span{
+		
 		font-size: 1.5em;
 		font-weight: bold;
 		color: white;}
@@ -584,6 +587,7 @@ ul{
 	background-color: dodgerblue;
 }
 #footer .footer {
+	margin-top: 3%;
 	min-height: 200px;
 	flex-direction: column;
 	padding-top: 50px;

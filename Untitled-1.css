@@ -49,8 +49,8 @@ ul{
 }
 
 .logoo  {
-	width: 55px;
-    height: 55px;
+	width: 65px;
+    height: 65px;
 	position: fixed;
 	left:0%;
 	top:0%;
@@ -234,7 +234,7 @@ ul{
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/hero-bg.png);
+	background-image: url(beda.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -788,7 +788,7 @@ ul{
 
 	#services .service-bottom .service-item {
 		flex-basis: 22%;
-		margin: 1.5%; 
+		margin: 1.5%;
 	}
 }
 /* End  Media Query For Desktop */

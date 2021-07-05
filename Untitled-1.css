@@ -239,6 +239,7 @@ ul{
 	background-position: top center;
 	position: relative;
 	z-index: 1;
+	box-sizing: border-box;
 }
 #hero::after {
     content: '';
@@ -250,7 +251,7 @@ ul{
 	width: 100%;
 	background-image:url(beda.jpg);
     background-repeat: no-repeat;
-	
+	box-sizing: border-box;
 	opacity: 0.6 #66000000;
 	z-index: -1;
 }

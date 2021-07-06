@@ -114,7 +114,7 @@ ul{
 	height: auto;
 }
 #header .header {
-	min-height: 8vh;
+	min-height: 15vh;
 	background-color: rgba(41, 108, 255, 0.658);
 	transition: 0.3s ease background-color;
 }

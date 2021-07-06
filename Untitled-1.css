@@ -52,7 +52,7 @@ ul{
 	width: 250px;
     height: 70px;
 	position: fixed;
-	left:0%;
+	left:-1%;
 	top:0%;
 }
 .section-title {

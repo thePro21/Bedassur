@@ -50,12 +50,11 @@ ul{
 
 .logoo  {
 	width: 250px;
-    height: 120px;
+    height: 80px;
 	position: fixed;
 	left:0%;
 	top:0%;
 }
-
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;

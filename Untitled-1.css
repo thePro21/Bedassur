@@ -68,11 +68,14 @@ ul{
 	color: dodgerblue;
 }
 line1 {
-	width: 100px;
-	white-space:nowrap;
-	overflow:hidden;
-	text-overflow:ellipsis;
-	}
+  width: 70px;
+  border: 1px solid black;
+  display: block;
+  overflow: hidden;
+  white-space: nowrap;
+  color:white
+  text-overflow: ellipsis;
+  }
 .cta {
 	display: inline-block;
 	padding: 10px 30px;

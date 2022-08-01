@@ -448,8 +448,8 @@ ul{
 
 .checkmark{
   display:inline-block;
-  
-  &:after{
+  }
+  :after{
     /*Add another block-level blank space*/
     content: '';
     display: block;
@@ -465,7 +465,7 @@ ul{
     /*Rotate the L 45 degrees to turn it into a checkmark*/
     transform: rotate(45deg);
   }
-}
+
 
 #projects .project-img {
 	flex-basis: 50%;

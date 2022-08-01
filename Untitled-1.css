@@ -449,7 +449,7 @@ ul{
 .checkmark{
   display:inline-block;
   }
-  :after{
+  &:after{
     /*Add another block-level blank space*/
     content: '';
     display: block;
